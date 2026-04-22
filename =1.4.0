@@ -1,0 +1,7 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/
+Collecting flash-linear-attention
+  Downloading https://mirrors.aliyun.com/pypi/packages/cc/16/7736db08806981562c728f32ea1dcb4565948fa9faffdbf4ffbf72522fbf/flash_linear_attention-0.5.0-py3-none-any.whl (319 kB)
+Collecting causal-conv1d
+  Downloading https://mirrors.aliyun.com/pypi/packages/63/15/ec51d77a2df03ee93410f8ee97fceeb7181da213813c51243e9dd6d7e144/causal_conv1d-1.6.1.tar.gz (29 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'canceled'
