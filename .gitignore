@@ -15,6 +15,7 @@ env/
 lora_model/
 swanlog/
 output.txt
+model/
 
 # Local datasets and caches
 data/
